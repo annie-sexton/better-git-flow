@@ -5,6 +5,7 @@ const PostList = () => {
   function render() {
     return(
       <div>
+        <h2>My posts</h2>
         <Post/>
       </div>
     )
