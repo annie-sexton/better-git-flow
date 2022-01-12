@@ -2,7 +2,7 @@ import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
 import './index.css'
-import Nav from './Nav/Nav'
+import Nav from './components/Nav/Nav'
 
 function App() {
   const [count, setCount] = useState(0)
