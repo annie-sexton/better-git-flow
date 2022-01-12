@@ -4,7 +4,7 @@ const Footer = (props: any) => {
   function render() {
     return(
       <div>
-      {props.children}
+      This is the footer.
       </div>
     )
   }
